@@ -1,0 +1,7 @@
+# Install dependencies
+pip install requests colorama
+download proxy
+curl -o proxy.txt "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"
+python3 elang.py
+# Jalankan script (auto-download proxy)
+python3 elang.py

@@ -1,5 +1,0 @@
-# Install dependencies
-pip install requests colorama
-
-# Jalankan script (auto-download proxy)
-python3 elang.py
